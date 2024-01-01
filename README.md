@@ -19,4 +19,4 @@ To get started, install the required packages using the following commands:
 ```
 
 ## Credits
-(Google-ai-Studio)[https://ai.google.dev/?utm_source=google&utm_medium=cpc&utm_campaign=brand_core_brand&gad_source=1]
+[Google-ai-Studio](https://ai.google.dev/?utm_source=google&utm_medium=cpc&utm_campaign=brand_core_brand&gad_source=1)
